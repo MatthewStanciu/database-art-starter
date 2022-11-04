@@ -25,6 +25,7 @@ const Home: NextPage = () => {
         <title>Database Art 🌈</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <p>hiii</p>
     </div>
   )
 }
